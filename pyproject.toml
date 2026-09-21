@@ -2,7 +2,7 @@
 name = "bgpartmod"
 version = "0.1.0"
 description = "Add your description here"
-requires-python = ">=3.14"
+requires-python = ">=3.13.13"
 dependencies = [
     "deepdiff>=9.1.0",
     "dill>=0.4.1",
