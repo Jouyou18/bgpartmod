@@ -6,6 +6,7 @@ tests/
 _private/
 _private_LOG/
 .claude/
+CLAUDE.md
 Manual_Saves/
 src/bgc/
 src/config_model/_*config*.py
@@ -19,6 +20,7 @@ src/config_model/phys_setup.py
 src/utils/observations.py
 src/core/_legacy_tables.py
 src/utils/plotting_paper.py
+src/_toolbox.py
 src/_*main*
 _requirements.txt
 _*requirements.txt
