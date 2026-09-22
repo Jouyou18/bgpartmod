@@ -30,6 +30,7 @@ simulations_SAVE_20250612/
 old_config_20250613/
 DEVELOPMENT_NOTES.md
 AGENTS.md
+notebook/
 
 .venv
 .venv/
