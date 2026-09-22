@@ -98,7 +98,7 @@ The framework is built around the concept of **components** - self-contained mod
 #### Prerequisites
 
 - [uv](https://github.com/astral-sh/uv) installed
-- Python 3.13.13 (uv installe automatiquement cette version si besoin)
+- Python 3.13.13 (uv will install this version automatically if needed)
 
 #### Setup local
 
@@ -159,8 +159,8 @@ The framework is built around the concept of **components** - self-contained mod
 
 **Updating dependencies later:**
 ```bash
-uv add --group server nom_du_paquet   # or --group local
-uv sync --group server                 # or --group local
+uv add --group server package-name   # or --group local
+uv sync --group server               # or --group local
 ```
 
 ## Quick Start
